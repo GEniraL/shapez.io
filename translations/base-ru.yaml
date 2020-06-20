@@ -72,11 +72,11 @@ global:
     error: Ошибка
 
     # How big numbers are rendered, e.g. "10,000"
-    thousandsDivider: ","
+    thousandsDivider: "."
 
     # The suffix for large numbers, e.g. 1.3k, 400.2M, etc.
     suffix:
-        thousands: тыс.
+        thousands: тыс
         millions: млн
         billions: млрд
         trillions: трлн
